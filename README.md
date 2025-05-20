@@ -298,7 +298,6 @@ Instructions on how to execute your pipeline. [cite: 15]
   pytest src/tests/
   ```
 
-```
 
 ## Monitoring and Alerting [cite: 12]
 
